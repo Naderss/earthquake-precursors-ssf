@@ -8,5 +8,4 @@ Research use: Please share this repository and use it freely for non-commercial 
 
 Commercial use: Commercial applications of this method are protected under U.S. Patent Pending 63/870,020 (“Methods and Systems for Detecting Earthquake Precursors via Stress-Sensitive Transformations of Seismic Noise”). For licensing or collaboration inquiries, please contact the author (nader.shakiba@gmail.com).
 
- Support: This code was developed independently and supported by the author’s personal savings. If you would like to contribute to further development, you may support the project here:
-[PayPal Donation Link]
+ Support: This code was developed independently and supported by the author’s personal savings. If you would like to contribute to further development and support the project, please send me an email (nader.shakiba@gmail.com).
