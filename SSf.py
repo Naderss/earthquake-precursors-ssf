@@ -82,7 +82,6 @@ def preprocess(st, inv):
     st.remove_sensitivity(inv)
     st.sort(keys=["starttime"])
     st.merge(method=0, fill_value="latest")
-    st.detrend(type="linear")
     for tr in st:
         if abs(tr.stats.sampling_rate - SR_TARGET) > 1e-6:
             tr.resample(SR_TARGET)
